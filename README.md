@@ -1,3 +1,3 @@
-# Text Classification
+# Machine Learning
 
-This repository contains different approaches to solve text classification/categorozation.  
+This repository contains machine learning problems I solved in verious challenges as part of my learning journey.  
